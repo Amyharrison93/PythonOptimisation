@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonOptimisationLib", "PythonOptimisationLib.pyproj", "{25AB1FD4-B524-4072-AA12-837B408134B7}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonOptimisationLib", "PythonOptimisationLib.pyproj", "{7505B961-3638-42A7-AAC2-A20D87BE944A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{25AB1FD4-B524-4072-AA12-837B408134B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{25AB1FD4-B524-4072-AA12-837B408134B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7505B961-3638-42A7-AAC2-A20D87BE944A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7505B961-3638-42A7-AAC2-A20D87BE944A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E1497901-B12D-4497-9BC2-50FFFF0CF9E8}
+		SolutionGuid = {9D1F5D9D-FBD3-4314-A8A3-63909844C343}
 	EndGlobalSection
 EndGlobal

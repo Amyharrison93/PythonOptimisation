@@ -2,15 +2,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>25ab1fd4-b524-4072-aa12-837b408134b7</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
+    <ProjectGuid>7505b961-3638-42a7-aac2-a20d87be944a</ProjectGuid>
+    <ProjectHome>
+    </ProjectHome>
     <StartupFile>PythonOptimisationLib.py</StartupFile>
     <SearchPath>
     </SearchPath>
-    <WorkingDirectory>.</WorkingDirectory>
+    <WorkingDirectory>https://github.com/Amyharrison93/PythonOptimisation.git</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>PythonOptimisationLib</Name>
-    <RootNamespace>PythonOptimisationLib</RootNamespace>
+    <RootNamespace>PythonApplication1</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
